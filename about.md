@@ -4,19 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi my name is Stephen and I am currently a second year MS student studying Biostatistics at Columbia Mailman School of Public Health.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Born and raised in Seoul, South Korea, I moved to the U.S. with my sister and my mother in search of better education and opportunity. Growing up, I fell in love with the game of basketball and used it as a means to incorporate myself into the U.S. culture and society.</p>
+
+<p>I acquired my Bachelors Degree from the University of North Carolina at Chapel Hill, and it was here where I discovered my love for Biostatistics and data science as a whole. There is a special feeling of power and significance one can get as a Biostatistician; the fact that I can analyze data from millions of patients and derive meaningful public health findings from behind a small computer amazes me everyday! </p>
+
 
 <h2>Skills</h2>
 
