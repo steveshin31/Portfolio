@@ -1,0 +1,7 @@
+---
+title: Comparing Machine Learning Algorithms in the Prediction of Popularity of Online
+  Articles
+author: "Kee-Young Shin"
+date: "1/6/2020"
+output: html_document
+---
