@@ -3,5 +3,6 @@ title: Comparing Machine Learning Algorithms in the Prediction of Popularity of 
   Articles
 author: "Kee-Young Shin"
 date: "1/6/2020"
+projects: true
 output: html_document
 ---
