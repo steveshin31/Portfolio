@@ -14,4 +14,6 @@ This was the final project for a Data Science class taken in my first semester a
 
 <a href="https://petewang68.github.io/final_project/index.html">Website</a>
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=wGQlzGs4FTg&feature=emb_title" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true"></iframe>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGQlzGs4FTg?hd=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
