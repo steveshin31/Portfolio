@@ -6,5 +6,7 @@ projects: true
 layout: post
 ---
 
+<br> 
+
 Basket trials are increasingly becoming a popular clinical trial design due to its efficiency in terms of sample size and power. My colleague and I sought to compare a basket trial design with an interm Heterogeneity Assessment (proposed by Kristen et al.) to conducting multiple Simon Two-Stage trials with multiple comparison correction. The heterogeneity assessment would determine if the baskets were homogeneous or heterogeneous; a homogeneous result would lead to pooling of the baskets and a final analysis on the whole sample thereby potentially reducing sample size and increasing power. We extended this model by also including an option of pooling heterogeneous baskets. Additionally, we also compared these designs to a Bayesian Hierarchical design wherein information can be shared between baskets. For our analysis, we created these trial designs in R and ran simulations for comparison. You can read our paper [here.](https://steveshin31.github.io/Portfolio/assets/Efficient%20Basket%20Trial%20Designs.pdf)
 
