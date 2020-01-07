@@ -12,7 +12,11 @@ This was the final project for a Data Science class taken in my first semester a
 
 <br>
 
+<br>
+
 <a href="https://petewang68.github.io/final_project/index.html">Website</a>
+
+<br>
 
 <br>
 
