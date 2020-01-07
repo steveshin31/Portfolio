@@ -8,7 +8,7 @@ layout: post
 
 <br>
 
-This was the final project for a Data Science class taken in my first semester at Columbia. Intrigued by the constant clashes between political parties, racial groups, and other factions during that time, I and four other students sought to analyze the level of hate crime during the current presidency. We presented our results by creating a website using R that also incorporated intriguing visuals such as Shiny. In addition to the website we also created a two minute screen-cast summarizing our findings. The website and screen-cast can be found below. 
+This was the final project for a Data Science class taken in my first semester at Columbia. Intrigued by the constant clashes between political parties, racial groups, and other factions during that time, I and four other students sought to analyze the level of hate crime during the last decade. We presented our results by creating a website using R that also incorporated intriguing visuals such as Shiny. In addition to the website we also created a two minute screen-cast summarizing our findings. The website and screen-cast can be found below. 
 
 <br>
 
