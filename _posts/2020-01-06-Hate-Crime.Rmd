@@ -1,7 +1,7 @@
 ---
 title: "Hate Crime Analysis"
 author: "Kee-Young Shin"
-date: "1/6/2020"
+date: "8/6/2019"
 projects: true
 layout: post
 output: html_document

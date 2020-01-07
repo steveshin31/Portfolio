@@ -2,7 +2,7 @@
 title: Comparing Machine Learning Algorithms in the Prediction of Popularity of Online
   Articles
 author: "Stephen Shin"
-date: "1/6/2020"
+date: "4/21/2019"
 projects: true
 layout: post
 output: html_document
