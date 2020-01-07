@@ -5,7 +5,6 @@ author: "Stephen Shin"
 
 projects: true
 layout: post
-output: html_document
 ---
 
 <br> 

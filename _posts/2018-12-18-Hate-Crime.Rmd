@@ -1,6 +1,6 @@
 ---
 title: "Hate Crime Analysis"
-author: "Kee-Young Shin"
+author: "Stephen Shin"
 projects: true
 layout: post
 
