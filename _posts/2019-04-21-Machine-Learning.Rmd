@@ -10,3 +10,7 @@ layout: post
 <br> 
 
 One of the many realms of data analysis that interests me is Machine Learning. My collegues and I set out to explore the difference in performance between various ML algorithms in the context of predicting the popularity of online news articles. Additionally, we believed that models created to predict popularity of online news articles could potentially help writers and websites on what aspects to focus on to attract readers. In our previous analysis, we used ML regression methods; for this analysis we instead focused on classification algorithms. The analyses were conducted in R.You can read our paper <a href="https://steveshin31.github.io/Portfolio/assets/Machine%20Learning%20Classification%202.pdf">here.</a>
+
+<br>
+
+href="https://steveshin31.github.io/Portfolio/assets/Machine_Learning_Code.pdf">Code</a>
